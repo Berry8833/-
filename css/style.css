@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 2px solid black; */
+    background-color: white;
+}
+header {
+    border: 2px solid black;
+    margin: 50px;
+    padding: 130px;
+}
+header h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+} 
+p {
+    font-size: 30px;
+}
+.N {
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    line-height: 1.5;
+    font-size: 22px;
+    color: rgb(23, 1, 40);
+}
+footer h2 {
+    color: brown;
+    font-size: 35px;
+    text-align: center;
+}
